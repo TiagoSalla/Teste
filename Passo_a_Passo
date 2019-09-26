@@ -1,3 +1,5 @@
+------------------------------------Criando repositório do zero------------------------------------
+
 1 - Criar o repositório no Github com o README.
 
 2 - Clonar o repositório para o computador local
@@ -12,5 +14,12 @@
 	--> git commit -m "*Descrição do commit, o que está fazendo*"
 	--> git push (envia os arquivos commitados ao repositório na nuvem do github, até antes 	disso os arquivos ainda estão locais na máquina)
 
-5 - 
+
+----------------------------------Usando repositório já existente----------------------------------
+------------------(Atualizando arquivos ou enviando novos arquivos a um projeto)-------------------
+
+1 - Executar os seguintes comandos no repositório local
+	--> git add . (ou ao invés do ponto o nome do arquivo específico que deseja modificar ou 	 enviar)
+	--> git commit -m "*Descrição do envio ou alteração*"
+	--> git push (enviar para a nuvem)
 
