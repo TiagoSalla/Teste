@@ -1,0 +1,16 @@
+1 - Criar o repositório no Github com o README.
+
+2 - Clonar o repositório para o computador local
+	--> Pegar o link no github
+	--> Abrir o prompt e entrar na pasta onde deseja deixar o repositório local
+	--> Inserir a linha de comando "git clone *link_do_repositório*"
+
+3 - Copiar para o repositório local os arquivos que deseja subir ao github
+
+4 - Exercutar as seguintes linhas de comando no prompt
+	--> git add . (adiciona todos os arquivos da pasta)
+	--> git commit -m "*Descrição do commit, o que está fazendo*"
+	--> git push (envia os arquivos commitados ao repositório na nuvem do github, até antes 	disso os arquivos ainda estão locais na máquina)
+
+5 - 
+
